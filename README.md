@@ -1,6 +1,6 @@
-# Software Engineer | Rust 🦀
+# Blockchain developer | Security researcher
 
-> Transitioned from fullstack development to Systems engineering. Currently building secure high-performance Rust infrastructure, RESTful APIs and smart contracts(rust and solidity). 
+> Transitioned from fullstack development to Systems engineering. Currently building secure high-performance Rust infrastructure, RESTful APIs and smart contracts(rust and solidity) and auditing smart contracts in rust and solidity
 
 ### Primary Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
